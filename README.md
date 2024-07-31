@@ -20,6 +20,12 @@ https://momentjs.com/downloads/moment.min.js
 
 https://www.jqueryscript.net/time-clock/Clean-Data-Timepicker-with-jQuery-Bootstrap-3.html
 
+https://www.jqueryscript.net/time-clock/Clean-jQuery-Date-Time-Picker-Plugin-datetimepicker.html
+
+https://www.jqueryscript.net/time-clock/jQuery-Date-Time-Picke-Plugin-Simple-Datetimepicker.html
+
+https://www.jqueryscript.net/time-clock/Responsive-Flat-Date-Time-Picker-with-jQuery-DateTimePicker-Plugin.html
+
 ## Bootstrap 3 Datetimepicker
 
 https://github.com/monim67/bootstrap-datetimepicker
